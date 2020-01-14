@@ -1,5 +1,6 @@
 <html>
 <head>
+    <title>Painikepeli</title>
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <script src="https://code.jquery.com/jquery-latest.min.js"></script>

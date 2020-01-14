@@ -6,14 +6,27 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="182f0d75-4461-4712-8087-16cb42c0fe05" name="Default Changelist" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/laskepisteet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/styles.css" afterDir="false" />
+    <list default="true" id="182f0d75-4461-4712-8087-16cb42c0fe05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/painikepeli.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/laskepisteet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/dependency/webapp-runner.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/.heroku-deploy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/system.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/dependency/webapp-runner.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/mvn-dependency-list.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/app/target/painikepeli.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/heroku/build.tgz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/mvn-dependency-list.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/painikepeli/WEB-INF/classes/META-INF/painikepeli.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/painikepeli/WEB-INF/classes/laskepisteet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/painikepeli/WEB-INF/lib/jquery-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/painikepeli/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/painikepeli.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/painikepeli.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/painikepeli/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/painikepeli/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -210,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.361">
+  <component name="RunManager" selected="Maven.painikepeli [heroku:deploy-war]">
     <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/painikepeli_war_exploded/index.jsp">
       <method v="2" />
     </configuration>
@@ -406,12 +419,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578756051745</updated>
-      <workItem from="1578756054801" duration="29701000" />
+      <workItem from="1578756054801" duration="30769000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1579025829323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579025829323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29701000" />
+    <option name="totallyTimeSpent" value="30769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -421,8 +442,8 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" sideWeight="0.50083196" side_tool="true" visible="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49916804" visible="true" weight="0.25" />
+      <window_info id="Web" sideWeight="0.21297836" side_tool="true" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.78702164" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.32998884" />
       <window_info anchor="bottom" id="Terminal" weight="0.32998884" />
@@ -431,10 +452,10 @@
       <window_info anchor="bottom" id="Messages" weight="0.32998884" />
       <window_info anchor="bottom" id="Java Enterprise" weight="0.32998884" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32998884" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32998884" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998884" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
